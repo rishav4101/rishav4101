@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<b>Relevant : Intern at Creesync Software technologies | Frontend Developer | UI/UX Designer | Django Fullstack Developer | Graphic Designer</b>
-<b>Not so Relevant : Writer | Artist | Photographer | My_realms community founder</b>
+<b>Relevant</b> : Intern at Creesync Software technologies | Frontend Developer | UI/UX Designer | Django Fullstack Developer | Graphic Designer
+</br> </br>
+<b>Not so Relevant</b> : Writer | Artist | Photographer | My_realms community founder
 
-<Currently Learning Machine Learning and Data Science/>
+Currently Learning Machine Learning and Data Science
 <!--
 **rishav4101/rishav4101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
