@@ -4,7 +4,7 @@
 </br> </br>
 <b>Not so Relevant</b> : Writer | Artist | Photographer | my_realms community founder
 
-Currently working on Trucoin Blockchain.
+Currently working on Trucoin, India's First Blockchain.
 
 Currently learning Machine Learning
 <!--
