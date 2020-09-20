@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-<b>Relevant</b> : Intern at Creesync Software technologies | Frontend Developer | UI/UX Designer | Django Fullstack Developer | Graphic Designer
+<b>Relevant</b> : Head of Engineering at Triunits Pvt. Ltd. | Blockchain Developer | Fullstack Web Developer | Machine Learning | UI/UX Designer | Graphic Designer
 </br> </br>
-<b>Not so Relevant</b> : Writer | Artist | Photographer | My_realms community founder
+<b>Not so Relevant</b> : Writer | Artist | Photographer | my_realms community founder
 
-Currently Learning Machine Learning and Data Science
+Currently working on Trucoin Blockchain.
+
+Currently learning Machine Learning
 <!--
 **rishav4101/rishav4101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
