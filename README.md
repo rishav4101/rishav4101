@@ -4,9 +4,6 @@
 </br> </br>
 <b>Not so Relevant</b> : Writer | Artist | Photographer | my_realms community founder
 
-Currently working on Trucoin, India's First Blockchain.
-
-Currently learning Machine Learning
 <!--
 **rishav4101/rishav4101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
