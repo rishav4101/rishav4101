@@ -6,7 +6,7 @@
 <p align="center">Ask me about <b>HTML/CSS, ReactJs, Django, UI/UX design, Graphic Design</b></p>
 <p align="center">Reach me at <b>rajkumarrishav4101@gmail.com</b></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav4101" alt="rishav4101"/></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav4101" alt="rishav4101"/></a> </p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishav4101&label=Profile%20views&color=0e75b6&style=flat" alt="rishav4101" /> </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -23,7 +23,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishav4101&show_icons=true&locale=en&layout=compact" alt="rishav4101" /></p>
 
 <div >
-<p style="display: flex;" display="flex" align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav4101&show_icons=true&locale=en" alt="rishav4101" /></p>
+<!-- <p style="display: flex;" display="flex" align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav4101&show_icons=true&locale=en" alt="rishav4101" /></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav4101&" alt="rishav4101" /></p>
 </div>
